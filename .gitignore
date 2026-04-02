@@ -36,3 +36,6 @@ query-engine-*.exe
 **/out.txt
 **/pdf_output.txt
 **/prisma_err.txt
+
+# Local Netlify folder
+.netlify
